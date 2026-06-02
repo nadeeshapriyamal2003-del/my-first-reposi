@@ -4,6 +4,6 @@
 A beginner GitHub project
 created during the workshop. 
 
-##About Me 
+#About Me 
 My name is **Nadeesha**.
 I am learning GiHub.
